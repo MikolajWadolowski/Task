@@ -1,2 +1,2 @@
 # Task
-In comments I eleaborated on my code
+In code comments I eleaborated on my code
